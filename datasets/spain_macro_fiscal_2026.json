@@ -1,0 +1,125 @@
+{
+  "dataset_id": "spain-macroeconomic-fiscal-housing-corporate-2026",
+  "version": "2026.11.07",
+  "publisher": {
+    "name": "Diario Económico · Unidad de Datos y Estudios",
+    "url": "https://diarioeconomico.net/",
+    "studies_hub": "https://diarioeconomico.net/estudios/",
+    "calculators_hub": "https://diarioeconomico.net/calculadoras/",
+    "legal_economic_desk": "https://diarioeconomico.net/consulta-abogado/"
+  },
+  "license": "CC0-1.0",
+  "series": {
+    "treasury_bills_auctions_2026": {
+      "source": "Tesoro Público / Banco de España",
+      "reference_study_nov_dec": "https://diarioeconomico.net/subastas-letras-tesoro-noviembre-diciembre-2026-fechas-rentabilidad/",
+      "reference_study_oct": "https://diarioeconomico.net/calendario-subastas-tesoro-octubre-2026-letras/",
+      "calculator_url": "https://diarioeconomico.net/calculadora-letras-tesoro-2026-rentabilidad-neta-irpf-comision-bde/",
+      "upcoming_auctions": [
+        {
+          "date": "2026-11-10",
+          "tenors": [
+            "6 meses",
+            "12 meses"
+          ],
+          "settlement_date": "2026-11-13",
+          "indicative_marginal_pct": 2.78
+        },
+        {
+          "date": "2026-11-17",
+          "tenors": [
+            "3 meses",
+            "9 meses"
+          ],
+          "settlement_date": "2026-11-20",
+          "indicative_marginal_pct": 2.86
+        },
+        {
+          "date": "2026-12-01",
+          "tenors": [
+            "6 meses",
+            "12 meses"
+          ],
+          "settlement_date": "2026-12-04",
+          "indicative_marginal_pct": 2.72
+        },
+        {
+          "date": "2026-12-09",
+          "tenors": [
+            "3 meses",
+            "9 meses"
+          ],
+          "settlement_date": "2026-12-11",
+          "indicative_marginal_pct": 2.8
+        }
+      ]
+    },
+    "housing_price_index_ipv_ine_2026": {
+      "source": "Instituto Nacional de Estadística (INE)",
+      "reference_study": "https://diarioeconomico.net/indice-precios-vivienda-segundo-trimestre-2026-ine/",
+      "methodology_study": "https://diarioeconomico.net/evolucion-del-precio-de-la-vivienda-en-espana-datos-y-metodologia/",
+      "national_yoy_variation_pct": 7.8,
+      "new_housing_yoy_pct": 11.2,
+      "existing_housing_yoy_pct": 7.3
+    },
+    "transport_public_investment_budget_2026": {
+      "source": "PGE / Ministerio de Economía / SEOPAN / Adif / Renfe / Aena",
+      "reference_study": "https://diarioeconomico.net/carlos-cuerpo-asume-transportes-presupuesto-inversion-publica-adif-renfe-economia/",
+      "consolidated_investment_budget_meur": 11480,
+      "share_of_state_civil_works_tendering_pct": 58.0,
+      "adif_av_financial_debt_meur": 18600,
+      "prtr_allocated_funds_meur": 13200,
+      "cpi_transport_basket_weight_pct": 14.1
+    },
+    "irpf_second_installment_november_2026": {
+      "source": "Agencia Estatal de Administración Tributaria (AEAT) / LGT Art. 28",
+      "reference_study": "https://diarioeconomico.net/segundo-pago-renta-irpf-5-noviembre-recargos-hacienda-aplazar-sin-saldo/",
+      "irpf_salary_calculator": "https://diarioeconomico.net/calculadora-irpf-2026-sueldo-neto-espana-tramos-ccaa/",
+      "taxpayers_affected_millions": 5.2,
+      "second_installment_share_pct": 40.0,
+      "collateral_free_deferral_limit_eur": 50000,
+      "surcharge_ladder_pct": {
+        "ejecutivo_sin_notificacion": 5.0,
+        "apremio_reducido": 10.0,
+        "apremio_ordinario": 20.0
+      }
+    },
+    "corporate_law_and_mercantile_studies_2026": {
+      "source": "BOE / LSC / TRLC / Ley 3/2004 / LMVSI / DIRCE INE",
+      "studies": [
+        {
+          "topic": "Directorio Central de Empresas (DIRCE) y microempresas",
+          "url": "https://diarioeconomico.net/directorio-empresas-2025-microempresas-comercio-comunicaciones/"
+        },
+        {
+          "topic": "Creación de Sociedades Mercantiles y capital suscrito (INE)",
+          "url": "https://diarioeconomico.net/creacion-sociedades-mercantiles-agosto-2026-ine-capital-suscrito/"
+        },
+        {
+          "topic": "Derechos del socio minoritario en SL y dividendo mínimo 25% (art. 348 bis LSC)",
+          "url": "https://diarioeconomico.net/derechos-socio-minoritario-sl-dividendos-348-bis-impugnar-acuerdos/"
+        },
+        {
+          "topic": "Responsabilidad personal del administrador de SL por deudas y pérdidas",
+          "url": "https://diarioeconomico.net/responsabilidad-administrador-sl-conflictos-socios-administracion-desleal/"
+        },
+        {
+          "topic": "Concurso de acreedores en pymes y autónomos, plazos y avalistas (TRLC)",
+          "url": "https://diarioeconomico.net/concurso-acreedores-pymes-autonomos-plazos-deudas-hacienda-avalistas/"
+        },
+        {
+          "topic": "Reclamación de facturas impagadas entre empresas, monitorio e intereses Ley 3/2004",
+          "url": "https://diarioeconomico.net/reclamar-facturas-impagadas-empresas-monitorio-intereses-demora/"
+        },
+        {
+          "topic": "Reclamación de pérdidas en acciones por información financiera falsa (art. 124 LMVSI)",
+          "url": "https://diarioeconomico.net/reclamar-perdidas-acciones-informacion-financiera-falsa-espana/"
+        },
+        {
+          "topic": "Competencia de la Audiencia Nacional en el Caso Soltec (Auto 704/2026)",
+          "url": "https://diarioeconomico.net/audiencia-nacional-confirma-competencia-investigar-caso-soltec-auto-704-2026-inversores/"
+        }
+      ]
+    }
+  }
+}

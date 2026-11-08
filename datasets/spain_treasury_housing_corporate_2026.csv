@@ -1,0 +1,13 @@
+indicator_id,category,metric_name,value,unit,period,source,reference_study_url
+IPV_GENERAL_2026,Housing,INE Housing Price Index (General YoY),7.8,pct,2026-Q2,INE,https://diarioeconomico.net/indice-precios-vivienda-segundo-trimestre-2026-ine/
+IPV_OBRA_NUEVA_2026,Housing,INE New Housing Price Index (YoY),11.2,pct,2026-Q2,INE,https://diarioeconomico.net/indice-precios-vivienda-segundo-trimestre-2026-ine/
+IPV_SEGUNDA_MANO_2026,Housing,INE Existing Housing Price Index (YoY),7.3,pct,2026-Q2,INE,https://diarioeconomico.net/indice-precios-vivienda-segundo-trimestre-2026-ine/
+LETRAS_12M_NOV2026,Treasury,Letras del Tesoro 12M Indicative Marginal Yield,2.78,pct,2026-11,Tesoro Público / BdE,https://diarioeconomico.net/subastas-letras-tesoro-noviembre-diciembre-2026-fechas-rentabilidad/
+LETRAS_9M_NOV2026,Treasury,Letras del Tesoro 9M Indicative Marginal Yield,2.86,pct,2026-11,Tesoro Público / BdE,https://diarioeconomico.net/subastas-letras-tesoro-noviembre-diciembre-2026-fechas-rentabilidad/
+IRPF_2PAGO_CUOTA,Fiscal,Second IRPF Installment Share (Nov 5),40.0,pct,2026-11,AEAT,https://diarioeconomico.net/segundo-pago-renta-irpf-5-noviembre-recargos-hacienda-aplazar-sin-saldo/
+IRPF_APLAZAMIENTO_SIN_AVAL,Fiscal,Collateral-Free Tax Deferral Ceiling (Orden HFP/311/2023),50000,EUR,2026,BOE / AEAT,https://diarioeconomico.net/segundo-pago-renta-irpf-5-noviembre-recargos-hacienda-aplazar-sin-saldo/
+TRANSPORTES_INV_PRESUPUESTO,Macro,Ministry of Transport Consolidated Investment Budget,11480,MEUR,2026,PGE / SEOPAN,https://diarioeconomico.net/carlos-cuerpo-asume-transportes-presupuesto-inversion-publica-adif-renfe-economia/
+ADIF_AV_DEUDA,Macro,Adif & Adif Alta Velocidad Financial Debt,18600,MEUR,2026,IGAE / Adif,https://diarioeconomico.net/carlos-cuerpo-asume-transportes-presupuesto-inversion-publica-adif-renfe-economia/
+SMI_ESPANA_2026,Labor,Minimum Interprofessional Wage (14 payments),1221,EUR,2026,BOE / MITES,https://diarioeconomico.net/evolucion-salario-minimo-espana/
+LSC_DIVIDENDO_MIN_348BIS,Corporate,Minimum Mandatory Dividend Pool (Art. 348 bis LSC),25.0,pct,2026,BOE / LSC,https://diarioeconomico.net/derechos-socio-minoritario-sl-dividendos-348-bis-impugnar-acuerdos/
+LEY_3_2004_INDEMNIZACION,Corporate,Fixed Recovery Indemnity per Unpaid Commercial Invoice,40.0,EUR,2026,BOE / Ley 3/2004,https://diarioeconomico.net/reclamar-facturas-impagadas-empresas-monitorio-intereses-demora/
