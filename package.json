@@ -1,0 +1,21 @@
+{
+  "name": "spain-macroeconomic-fiscal-calculators-2026",
+  "version": "1.0.0",
+  "description": "Deterministic Spanish Macroeconomic, Fiscal & Corporate Law Calculation Engines (Letras del Tesoro, IRPF 17 CCAA, INE IPV Housing, LSC & Law 3/2004) by Diario Económico (https://diarioeconomico.net/)",
+  "homepage": "https://diarioeconomico.net/calculadoras/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PabloCirre/spain-macroeconomic-fiscal-calculators-2026.git"
+  },
+  "keywords": [
+    "spain",
+    "economics",
+    "irpf",
+    "letras-del-tesoro",
+    "corporate-law",
+    "ine",
+    "diario-economico"
+  ],
+  "author": "Diario Económico Data Desk (https://diarioeconomico.net/estudios/)",
+  "license": "MIT"
+}
